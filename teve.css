@@ -46,3 +46,23 @@ h1 {
 	font-style: italic;
 	font-size: 11px;
 }
+
+.tevekep {
+	float: right;
+}
+
+#jobbra {
+	text-align: right;
+}
+
+a {
+	color: orange;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+a:hover {
+	background-color: lightgrey;
+	text-decoration: underline;
+}
